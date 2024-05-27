@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 
 import React, { useState, ChangeEvent, FormEvent } from "react";
-const Approach = () => {
+const Impact = () => {
   return (
     <>
       <div className="max-w-7xl flex flex-col justify-center p-1 md:px-10 mx-auto sm:pt-10 lg:flex-row lg:justify-between items-center">
@@ -19,4 +19,4 @@ const Approach = () => {
     </>
   )
 }
-export default Approach;
+export default Impact;
