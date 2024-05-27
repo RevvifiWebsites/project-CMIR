@@ -40,7 +40,7 @@ export default function Home() {
             /> */}
 
             <Carouselshad />
-            
+
           </div>
         </div>
       </section>
@@ -143,22 +143,15 @@ export default function Home() {
             <div className="flex flex-col justify-center flex-1 px-6 lg:flex-2">
               <span className="mb-2 text-xs tracking-widest uppercase text-rose-600">
                 {" "}
-                Make Next.js 14 your new playground{" "}
+                A greener future with biomaterials{" "}
               </span>
               <h2 className="text-3xl font-bold">
                 {" "}
-                Easy to use UI elements based on Tailwind CSS and Shadcn/ui{" "}
+                About Us{" "}
               </h2>
               <p className="my-6 ">
                 {" "}
-                Inators UI is a toolkit for developers and designers to make
-                creating nextjs client side as well as server side interfaces
-                easier. Using Shadcn-ui components as base and added missing
-                necessary components, Inators UI have multiple components to
-                help you get started. Everything is modular and customizable to
-                fit your project. From cards to buttons to blogs, you can
-                quickly create a variety of layouts that is responsible for
-                next.js 14 and look great on any screen.{" "}
+                Project Surya is an effort by a group of passionate and dedicated university students and professors to rectify the lack of innovation in the field of biomaterials, one that has been woefully neglected in comparison to other areas in biology. We see great potential in the use of newly engineered biomaterials to help solve pertinent environmental issues, avoiding non-biodegradable plastic waste and much more{" "}
               </p>
             </div>
           </div>
