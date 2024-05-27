@@ -9,9 +9,13 @@ export default function MainNav() {
   const [state, setState] = React.useState(false);
 
   const menus = [
-    { title: "Components", path: "/inators" },
-    { title: "Documentation", path: "/docs" },
-    { title: "Feedback", path: "/contact" },
+    { title: "About Us", path: "/about" },
+    { title: "Approach", path: "/approach" },
+    { title: "Impact", path: "/impact" },
+    { title: "Gallery", path: "/media" },
+    { title: "Our Team", path: "/team" },
+    { title: "Contact Us", path: "/contact" },
+
   ];
 
   return (
@@ -34,7 +38,7 @@ export default function MainNav() {
               <Flower2 />
             </div>
             <span className="self-center text-2xl font-semibold">
-              Inators UI
+              Material Science
             </span>
           </Link>
         ) : null}
