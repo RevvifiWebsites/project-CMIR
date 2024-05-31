@@ -21,6 +21,7 @@ const CarouselShad = () => {
             className="object-cover object-top h-[70vh]"
           />
         </CarouselItem>{" "}
+        
         <CarouselItem>
           <Image
             height={500}

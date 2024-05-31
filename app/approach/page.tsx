@@ -4,6 +4,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
+import Featurecard from "@/components/inatorscomponents/feature/featurecard";
 
 import React, { useState, ChangeEvent, FormEvent } from "react";
 const Approach = () => {
@@ -15,6 +16,9 @@ const Approach = () => {
           Our<span className="text-rose-600 leading-snug"> Approach </span>
 
         </h1>
+      </div>
+      <div className="p-3">
+        <Featurecard />
       </div>
     </>
   )

@@ -12,7 +12,7 @@ export default function MainNav() {
     { title: "About Us", path: "/about" },
     { title: "Approach", path: "/approach" },
     { title: "Impact", path: "/impact" },
-    { title: "Gallery", path: "/media" },
+    { title: "Gallery", path: "/gallery" },
     { title: "Our Team", path: "/team" },
     { title: "Contact Us", path: "/contact" },
 
